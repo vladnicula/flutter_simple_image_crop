@@ -23,3 +23,8 @@ flutter:
         pluginClass: SimpleImageCropPlugin
       ios:
         pluginClass: SimpleImageCropPlugin
+      macos:
+        pluginClass: SimpleImageCropPlugin
+      web:
+        pluginClass: SimpleImageCropPlugin
+        fileName: SimpleImageCropPlugin.dart
